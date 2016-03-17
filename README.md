@@ -1,2 +1,2 @@
 # avaliacao-angularjs-ciss
-Avaliação curso AngularJS CISS
+Avaliação curso AngularJS - CISS
